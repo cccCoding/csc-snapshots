@@ -1,8 +1,8 @@
 # csc-snapshots
 
-[csc-20210817.zip](www.coinex.com) (size 0.381GB)
+[csc-20210817.zip](www.coinex.com) (size 0.459GB)
 
-MD5 checksum: 534da5aefdc00acb204fd432ee509b59
+MD5 checksum: 93710504df360b38c7c56cae45a8f6a5
 
 ## Usage
 
