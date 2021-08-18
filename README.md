@@ -2,7 +2,7 @@
 
 [csc-20210818.zip](www.coinex.com) (size 0.386GB)
 
-MD5 checksum: ed9bfcf8324323578ec504a412a85e19
+MD5 checksum: 22be19556c60f81fa2070d56f93afb16
 
 ## Usage
 
