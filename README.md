@@ -1,8 +1,8 @@
 # csc-snapshots
 
-[csc-20210826.zip](www.coinex.com) (size 0.468GB)
+[csc-20210831.zip](https://oneswap.oss-cn-hongkong.aliyuncs.com/csc-20210831.zip) (size 0.569GB)
 
-MD5 checksum: 6ffa39f799ff6f38f42d8727ac4850a2
+MD5 checksum: 5dbdfeeeb9d39782d3489b62324d80f3
 
 ## Usage
 
